@@ -16,8 +16,8 @@ $request->setBody('<?xml version="1.0" encoding="utf-8"?>
 \n    <soap:Body>
 \n        <DetalladaListaDeclaraciones xmlns="Ar.Gob.Afip.Dga.wconsdeclaracion">
 \n            <argWSAutenticacionEmpresa>
-\n                <Token>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/Pgo8c3NvIHZlcnNpb249IjIuMCI+CiAgICA8aWQgc3JjPSJDTj13c2FhLCBPPUFGSVAsIEM9QVIsIFNFUklBTE5VTUJFUj1DVUlUIDMzNjkzNDUwMjM5IiB1bmlxdWVfaWQ9IjQxMDc3MTA0NTAiIGdlbl90aW1lPSIxNjcwMjQzMjU3IiBleHBfdGltZT0iMTY3MDI4NjUxNyIvPgogICAgPG9wZXJhdGlvbiB0eXBlPSJsb2dpbiIgdmFsdWU9ImdyYW50ZWQiPgogICAgICAgIDxsb2dpbiBlbnRpdHk9IjMzNjkzNDUwMjM5IiBzZXJ2aWNlPSJ3Y29uc2RlY2xhcmFjaW9uIiB1aWQ9IkM9YXIsIFNUPWNhYmEsIEw9Y2FiYSwgTz1hbmFiZWwgcGVyZXogYmVtcG9yYXQsIE9VPWZhY3R1cmFjaW9uLCBTRVJJQUxOVU1CRVI9Q1VJVCAyNzIwNDI4MjE4MywgQ049YW5hYmVsIiBhdXRobWV0aG9kPSJjbXMiIHJlZ21ldGhvZD0iMjIiPgogICAgICAgICAgICA8cmVsYXRpb25zPgogICAgICAgICAgICAgICAgPHJlbGF0aW9uIGtleT0iMjcyMDQyODIxODMiIHJlbHR5cGU9IjQiLz4KICAgICAgICAgICAgPC9yZWxhdGlvbnM+CiAgICAgICAgPC9sb2dpbj4KICAgIDwvb3BlcmF0aW9uPgo8L3Nzbz4K</Token>
-\n                <Sign>Qznmsyxghbg3/mavFAWciDmzOKigUntzQdT+XRU6d3zFhOH0ZXpTDZn7/6XgLppgGJH1EH4yA6zgWf/rzucPUHvS6K2wH/+8sdyF8SnR/30rEzcQMHQFwHuzFF/w5NIcA5OHhGI8RWpL9hypPcLMgZn6dlZdR4IFKE2hDDhkqKQ=</Sign>
+\n                <Token></Token>
+\n                <Sign></Sign>
 \n                <CuitEmpresaConectada>33693450239</CuitEmpresaConectada>
 \n                <TipoAgente>DESP</TipoAgente>
 \n                <Rol>DESP</Rol>
