@@ -20,8 +20,8 @@ curl_setopt_array( $curl, array(
     <soap:Body>
         <ar:DetalladaListaDeclaraciones>
             <ar:argWSAutenticacionEmpresa>
-                <ar:Token>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/Pgo8c3NvIHZlcnNpb249IjIuMCI+CiAgICA8aWQgc3JjPSJDTj13c2FhLCBPPUFGSVAsIEM9QVIsIFNFUklBTE5VTUJFUj1DVUlUIDMzNjkzNDUwMjM5IiB1bmlxdWVfaWQ9IjM1MjA0MzM3MDIiIGdlbl90aW1lPSIxNjc2NDY5NTEwIiBleHBfdGltZT0iMTY3NjUxMjc3MCIvPgogICAgPG9wZXJhdGlvbiB0eXBlPSJsb2dpbiIgdmFsdWU9ImdyYW50ZWQiPgogICAgICAgIDxsb2dpbiBlbnRpdHk9IjMzNjkzNDUwMjM5IiBzZXJ2aWNlPSJ3Y29uc2RlY2xhcmFjaW9uIiB1aWQ9IkM9YXIsIFNUPWNhYmEsIEw9Y2FiYSwgTz1hbmFiZWwgcGVyZXogYmVtcG9yYXQsIE9VPWZhY3R1cmFjaW9uLCBTRVJJQUxOVU1CRVI9Q1VJVCAyNzIwNDI4MjE4MywgQ049YW5hYmVsIiBhdXRobWV0aG9kPSJjbXMiIHJlZ21ldGhvZD0iMjIiPgogICAgICAgICAgICA8cmVsYXRpb25zPgogICAgICAgICAgICAgICAgPHJlbGF0aW9uIGtleT0iMjcyMDQyODIxODMiIHJlbHR5cGU9IjQiLz4KICAgICAgICAgICAgPC9yZWxhdGlvbnM+CiAgICAgICAgPC9sb2dpbj4KICAgIDwvb3BlcmF0aW9uPgo8L3Nzbz4K</ar:Token>
-                <ar:Sign>MseVBnUb4wUZHRHq99gAHcmqVcKLUCnO5N70lb/ps1hBKedvWdCPjiPTpcWshwqtAroYdh4WvoXNhvlbx2Wffx/t8usks7zjF3KSLeYUF0IW1rgHZSgbAPAm1kz/m1opOa8wfsileuohkELzHa0rufpSFqM9yA7pBO0cPNk568E=</ar:Sign>
+                <ar:Token></ar:Token>
+                <ar:Sign></ar:Sign>
                 <ar:CuitEmpresaConectada>27204282183</ar:CuitEmpresaConectada>
                 <ar:TipoAgente>DESP</ar:TipoAgente>
                 <ar:Rol>DESP</ar:Rol>
